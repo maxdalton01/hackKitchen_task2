@@ -1,9 +1,10 @@
 #include <cstdlib>
 #include <string>
 #include <iostream>
+
 using namespace std;
 
-int main() {
+void playAmbiance() {
     
     string file = "ambiance.mp3";
     
